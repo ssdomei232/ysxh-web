@@ -1,0 +1,77 @@
+activities:
+  - title: 月度摄影漫步
+    coverImage: /images/photo-walk.jpg
+    description: 加入我们的月度城市摄影漫步。捕捉城市景观和街头场景。
+    date: 2023-07-15
+    participants:
+      - 张三
+      - 李四
+      - 王五
+      - 赵六
+      - 钱七
+    organizer: 刘老师
+
+  - title: 人像摄影工作坊
+    coverImage: /images/portrait-workshop.jpg
+    description: 在专业摄影师的指导下，学习人像摄影的艺术。
+    date: 2023-07-22
+    participants:
+      - 陈一
+      - 周二
+      - 吴三
+    organizer: 黄教授
+
+  - title: 自然摄影探险
+    coverImage: /images/nature-expedition.jpg
+    description: 探索大自然，在周末的自然摄影探险中捕捉壮丽的风景。
+    date: 2023-08-05
+    participants:
+      - 郑八
+      - 孙九
+      - 杨十
+      - 朱十一
+      - 秦十二
+      - 许十三
+    organizer: 林导师
+
+  - title: 照片编辑大师班
+    coverImage: /images/editing-masterclass.jpg
+    description: 通过我们的照片编辑大师班，使用行业标准软件提升您的后期处理技能。
+    date: 2023-08-12
+    participants:
+      - 冯一
+      - 蒋二
+      - 沈三
+    organizer: 马老师
+
+showcase:
+  - title: 海滩日落
+    image: /images/sunset-beach.jpg
+    author: 张美丽
+    date: 2023-05-15
+
+  - title: 城市倒影
+    image: /images/urban-reflections.jpg
+    author: 李强
+    date: 2023-04-22
+
+  - title: 山峰之巅
+    image: /images/mountain-majesty.jpg
+    author: 王小明
+    date: 2023-06-01
+
+  - title: 陌生人的肖像
+    image: /images/portrait-stranger.jpg
+    author: 刘静
+    date: 2023-05-07
+
+  - title: 秋色
+    image: /images/autumn-colors.jpg
+    author: 陈雨
+    date: 2023-10-10
+
+  - title: 城市夜景
+    image: /images/night-city.jpg
+    author: 赵阳
+    date: 2023-07-18
+
