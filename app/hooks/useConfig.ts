@@ -1,17 +1,11 @@
 import { useState, useEffect } from 'react';
 import yaml from 'yaml';
 
-// 定义活动项的接口
-interface ActivityParticipant {
-  name: string;
-}
-
 interface Activity {
   title: string;
   coverImage: string;
   description: string;
   date: string; 
-  participants: ActivityParticipant[];
   organizer: string;
 }
 

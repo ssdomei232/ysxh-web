@@ -3,7 +3,6 @@ export interface Activity {
   coverImage: string
   description: string
   date: string
-  participants: string[]
   organizer: string
 }
 

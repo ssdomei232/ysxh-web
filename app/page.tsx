@@ -36,7 +36,7 @@ export default function Home() {
           playsInline
           className="absolute top-0 left-0 w-full h-full object-cover"
         >
-          <source src="https://c.mmeiblog.cn/d/share/newbili/影视星河片头.mp4" type="video/mp4" />
+          <source src="https://c.mmeiblog.cn/d/share/newbili/%E5%BD%B1%E8%A7%86%E6%98%9F%E6%B2%B3%E7%89%87%E5%A4%B4.mp4" type="video/mp4" />
           您的浏览器不支持视频标签。
         </video>
         <div className="absolute top-0 left-0 w-full h-full bg-black opacity-50"></div>
@@ -67,13 +67,7 @@ export default function Home() {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {filteredActivities.map((activity, index) => (
-              <ActivityCard
-                key={index}
-                activity={{
-                  ...activity,
-                  participants: activity.participants.map(participant => participant.name)
-                }}
-              />
+              <ActivityCard key={index} activity={activity} />
             ))}
           </div>
         </div>

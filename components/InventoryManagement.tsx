@@ -115,7 +115,7 @@ export default function Device() {
 
   return (
     <div className="container mx-auto bg-white rounded-lg shadow-lg p-6 space-y-8">
-      <h1 className="text-3xl font-bold text-center text-indigo-700 mb-8">摄影社团库存管理系统</h1>
+      <h1 className="text-3xl font-bold text-center text-indigo-700 mb-8">库存管理系统</h1>
       <div className="flex justify-center space-x-4 mb-8">
         <label className="bg-blue-500 text-white px-4 py-2 rounded-full cursor-pointer hover:bg-blue-600 transition duration-300">
           导入数据
