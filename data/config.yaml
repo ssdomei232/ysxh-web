@@ -1,56 +1,24 @@
 activities:
-  - title: 月度摄影漫步
-    coverImage: https://api.mmeiblog.cn/files/img/832582a1.jpg
-    description: 加入我们的月度城市摄影漫步。捕捉城市景观和街头场景。
-    date: 2023-07-15
-    organizer: 刘老师
+  - title: 壶口瀑布游玩
+    coverImage: /images/壶口-1.JPG
+    description: 壶口瀑布游玩
+    date: 2024-07-15
+    organizer: mei
 
-  - title: 人像摄影工作坊
-    coverImage: https://api.mmeiblog.cn/files/img/01J95FFQDMJ1HSMQK7RDAD8S6A.jpg
-    description: 在专业摄影师的指导下，学习人像摄影的艺术。
-    date: 2023-07-22
-    organizer: 黄教授
-
-  - title: 自然摄影探险
-    coverImage: https://api.mmeiblog.cn/files/img/1718019633883.jpg
-    description: 探索大自然，在周末的自然摄影探险中捕捉壮丽的风景。
-    date: 2023-08-05
-    organizer: 林导师
-
-  - title: 照片编辑大师班
-    coverImage: /images/editing-masterclass.jpg
-    description: 通过我们的照片编辑大师班，使用行业标准软件提升您的后期处理技能。
-    date: 2023-08-12
-    organizer: 马老师
+  - title: 黄帝陵
+    coverImage: /images/黄帝陵.JPG
+    description: 黄帝陵
+    date: 2024-07-22
+    organizer: mei
 
 showcase:
-  - title: 海滩日落
-    image: /images/sunset-beach.jpg
-    author: 张美丽
-    date: 2023-05-15
+  - title: 壶口瀑布
+    image: /images/壶口-2.JPG
+    author: mei
+    date: 2024-07-15
 
-  - title: 城市倒影
-    image: /images/urban-reflections.jpg
-    author: 李强
-    date: 2023-04-22
-
-  - title: 山峰之巅
-    image: /images/mountain-majesty.jpg
-    author: 王小明
-    date: 2023-06-01
-
-  - title: 陌生人的肖像
-    image: /images/portrait-stranger.jpg
-    author: 刘静
-    date: 2023-05-07
-
-  - title: 秋色
-    image: /images/autumn-colors.jpg
-    author: 陈雨
-    date: 2023-10-10
-
-  - title: 城市夜景
-    image: /images/night-city.jpg
-    author: 赵阳
-    date: 2023-07-18
+  - title: 黄帝陵
+    image: /images/黄帝陵.JPG
+    author: mei
+    date: 2024-07-22
 
