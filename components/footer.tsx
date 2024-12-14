@@ -11,7 +11,7 @@ const Footer = () => {
         </p>
         <p>
           备案号: 
-          <a href="http://www.beian.miit.gov.cn" target="_blank" rel="noopener noreferrer">
+          <a href="http://beian.miit.gov.cn" target="_blank" rel="noopener noreferrer">
             鲁ICP备12345678号-9
           </a>
         </p>
