@@ -36,7 +36,7 @@ export default function Home() {
           playsInline
           className="absolute top-0 left-0 w-full h-full object-cover"
         >
-          <source src="https://c.mmeiblog.cn/d/share/newbili/%E5%BD%B1%E8%A7%86%E6%98%9F%E6%B2%B3%E7%89%87%E5%A4%B4.mp4" type="video/mp4" />
+          <source src="https://static.yingshixinghe.cn:4443/video.mp4" type="video/mp4" />
           您的浏览器不支持视频标签。
         </video>
         <div className="absolute top-0 left-0 w-full h-full bg-black opacity-50"></div>
