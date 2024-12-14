@@ -10,7 +10,7 @@ const Footer = () => {
           © {currentYear} 影视星河 版权所有
         </p>
         <p>
-          备案号: 
+          ICP备案号: 
           <a href="http://beian.miit.gov.cn" target="_blank" rel="noopener noreferrer">
             鲁ICP备12345678号-9
           </a>
